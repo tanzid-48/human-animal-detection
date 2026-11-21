@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# The dataset is downloaded by the notebook (about 1 GB), do not upload it
+coco_download/
+human_animal_dataset_v2/
+datasets/
+*.zip
+
+# Not needed (best_human_animal_v2.pt is kept)
+last.pt
+
+# Photos given by the teacher, do not publish them
+mam_photos/
+test_photos/
+uploads/
+
+# Windows / editor files
+Thumbs.db
+desktop.ini
+.vscode/
